@@ -2,7 +2,7 @@
 
 // <======================================Default-Parameters============================>//
 
-// Sometimes it is useful that we default the parameters in this way we don not need to change them manually until we change the default value .
+// Sometimes, it is useful that we default the parameters in this way we don not need to change them manually until we change the default value .
 
 const bookingArr = [];
 
